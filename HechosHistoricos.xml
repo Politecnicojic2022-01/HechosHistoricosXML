@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<HechosHistoricos>
+<!DOCTYPE HechosHistoricos SYSTEM "HechosHistoricos.dtd">
 
+<HechosHistoricos>
+    <HechoHistorico descripcion="">
+        <Fecha>
+            <Dia>01</Dia>
+            <Mes>01</Mes>
+            <Año>2022</Año>
+        </Fecha>
+        <Epoca/>
+        <PersonajeDestacado>
+            Test persona <Nombre>Juan</Nombre> y fecha de nacimiento: <FechaNacimiento>01/01/2022</FechaNacimiento>
+        </PersonajeDestacado>
+    </HechoHistorico>
 </HechosHistoricos>
